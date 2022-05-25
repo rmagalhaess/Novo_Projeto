@@ -1,0 +1,3 @@
+Este é um outro arquivo
+com outro texto
+que será utilizado em outro momento
